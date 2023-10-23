@@ -194,13 +194,6 @@ console.log('mein pehle')
 // function thanks(){
 //     console.log('thanks')
 // }
-// function addproduct(proceed){
-//     console.log('addd')
-//     proceed(thanks)
-// }
-
-// addproduct(proceed)
-
 
 // let promise=fetch('https://jsonplaceholder.typicode.com/posts').then((res)=>{
 //     return res.json()
